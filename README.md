@@ -9,6 +9,9 @@ springboot를 이용한 json 표현과 api 구축을 위한 sql문 추가로 sw 
 
 ![누누](https://user-images.githubusercontent.com/58061933/107051672-10780a80-6810-11eb-88d8-4aaa12676596.PNG)  
 ![hoho부서](https://user-images.githubusercontent.com/58061933/107051670-0fdf7400-6810-11eb-9fdf-016cb2d9d58e.PNG)  
+추후 sw개발가이드를 형식으로 만들었다 하지만 아직 많이 보충해야한다.  
+[스스로 하는 SW 활용  API 가이드 문서.docx](https://github.com/leety1/springboot-json-api-sql-/files/5933420/SW.API.docx)
+
 
 
 
